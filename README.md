@@ -1,6 +1,6 @@
 # book
 What is this program for? 
-My dream was to create a place that have all the book which is necessary for one person to understand the world systemtically, and now this is possbile. 
+My dream was to create a place that have all the book  necessary for one person to understand the world systemtically, and now this is possbile. 
 
 How this work?
 
