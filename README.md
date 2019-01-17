@@ -15,8 +15,11 @@ baidu netdisk: https://pan.baidu.com/s/1EFj9QXNv_s153U3ZKTZwAA
 wechat official sites: KnowledgeTree (I don't know why I can't search out my own official sites for some reason
 
 If you have any problem, you can connect me by the following methods:
+
 wechat: hanliangliang_521
+
 qq: 2863528348
+
 mail: hanliangliang@live.com
 
 
